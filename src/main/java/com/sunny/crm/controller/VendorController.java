@@ -10,7 +10,7 @@ import java.util.Random;
 
 @RestController
 @RequestMapping("/api/vendor")
-@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app/")
+@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app")
 public class VendorController {
 
     @Autowired

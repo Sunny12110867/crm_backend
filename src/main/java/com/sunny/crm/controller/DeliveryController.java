@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/delivery")
-@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app/")
+@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app")
 public class DeliveryController {
 
     @Autowired

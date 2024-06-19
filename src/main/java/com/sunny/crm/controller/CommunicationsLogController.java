@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/communications-logs")
 @Transactional
-@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app/")
+@CrossOrigin(origins = "https://crmapplication-sunny12110867s-projects.vercel.app")
 public class CommunicationsLogController {
 
     @Autowired
